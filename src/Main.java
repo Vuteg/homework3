@@ -104,5 +104,7 @@ public class Main {
         System.out.println("Кристина теперь получает " + (workerKristina + (workerKristina * 0.1)) + " рублей. Годовой доход вырос на " + ((workerKristina * 0.1) * 12) + " рублей");
 
 
+
+
     }
 }
